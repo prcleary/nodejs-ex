@@ -1,0 +1,3 @@
+#!/bin/bash
+
+bash ~/app-root/repo/R/monitor.sh &
